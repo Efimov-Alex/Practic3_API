@@ -18,8 +18,19 @@ public class Main {
 
 // {"name":"a", "surname":"b","age":10, "phone_number":"12345"}
 
+
 // http://localhost:8082/employees/getAllEmployer
+
+
+// http://localhost:8082/employees/deleteEmployer/id_сотрудника
+
 
 // http://localhost:8082/addProduct
 
 // {"name":"a","price":123}
+
+
+// http://localhost:8082/getAllProduct
+
+
+//// http://localhost:8082/deleteProduct/id_продукта
